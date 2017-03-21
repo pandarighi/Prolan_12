@@ -1,0 +1,2 @@
+Saya membuat java ini untuk menjelaskan class-class pada hewan yaitu herbivora, karnivora, dan omnivora.
+Dengan memposisikan kelas anak pada class hewan dan kelas-kelas seperti herbivora, karnivora, dan omnivora pada kelas bapak.
