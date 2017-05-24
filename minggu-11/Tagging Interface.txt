@@ -1,0 +1,1 @@
+Tagging Interface adalah istilah yang terdapat dalam Java. Tagging Interface ini sendiri adalah interface kosong yang diterapkan pada kelas untuk mengklaim keanggotaan dalam satu set. Misalnya, jika sebuah kelas menerapkan interface Serializable, maka ia akan mengklaim dapat serializable (untuk menjadi anggota rangkaian kelas serializable).
