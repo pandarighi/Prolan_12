@@ -1,0 +1,72 @@
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PERTEMUAN	|	MATERI				|	PENJELASAN																|	Folder Github
+I		|	Pengenalan Java			|	Tentang Java, Sejarah Java, 														|	Prolan_12/minggu-1
+		|					|	Java Adalah Java adalah sebuah bahasa pemrograman yang 											|
+		|					|	berdasarkan OOP (Object Oriented Programing) yang pada 											|
+		|					|	awalnya dikembangkan oleh SUN kemudian sekarang diakuisisi 										|
+		|					|	dan dikembangkan oleh ORACLE.														|
+		|					|	Di lab belajar tentang pembuatan HelloWorld, tentang input output pada java dgn sistem Sytem.out.print					|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+II		|	Konsep Dasar OOP		|	Menjelaskan penjelasan dari OO dan meakukan pendekatan dalam pengembangan fungsional dan OO.                                            | 	Prolan_12/minggu-2
+		|					|	objek meliputi OO Analysis, OO Dessign, OO Programming, OO Testing. OO bukanlah program, tetapi cara pikir atau sudut pandang dalam 	|
+		|					|	membuat program. Program bisa saja ditulis dalam bahasa OO, tetapi progam tersebut prosedural.						|
+		|					|	Di lab kita memprktekan konsep-konsep dasar OOP itu.											|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+III		|	Kelas dan Objek			|	Menjelaskan tentang pengertian dari kelas dan objek. Kelas merupakan suatu bentuk klasifikasi dari objek-objek yang ada di dunia ini.   | 	Prolan_12/minggu-3
+		|					|       Objek-objek yang memiliki kesamaan dari segi data dan fungsi diklasifiksikan kepada kelas tertentu.					|	
+		|					|	Di dalam kelas terdefinisi data dan operasi dri settiap objek yang diklarifikasikan pada kelass tersebut. Didalam kelas terdapat dat yang dikenal sebegai	
+ 		|					|	atribut, dan operasi yang dikenal sebagai method atau fungsi										|
+		|					|	Di lab kita mempraktekan membuat kelas dan objek pada java.										|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IV		|	Method, Konstruktor, This	|	Menjelaskan tentang pengertian dari kelas dan objek. Kelas merupakan suatu bentuk klasifikasi dari objek-objek yang ada di dunia ini. 	| 	Prolan-12/minggu-4
+		|					|       Objek-objek yang memiliki kesamaan dari segi data dan fungsi diklasifiksikan kepada kelas tertentu.					|	
+		|					|	Di dalam kelas terdefinisi data dan operasi dri settiap objek yang diklarifikasikan pada kelass tersebut. Didalam kelas terdapat dat yang dikenal sebegai	
+ 		|					|	atribut, dan operasi yang dikenal sebagai method atau fungsi										|
+		|					|	Di lab kita mempraktekan membuat kelas dan objek pada java.										|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+V		|	Inheritance			|	Menjelaskan Inheritance, Hubungan antar kelas												|	Prolan_12/minggu-5
+		|					|	Inheritance adalah memungkinkan kita membuat kelas yang diturunkan dari kelas lain . 							|
+		|					|	Inherinatce juga dapat didefiniskan bahwa sebuah kelas dapat mengakuisisi atribut dan fungsi dari kelas					|
+		|					|	lain.																	|
+		|					|	Contoh konsep inheritance adalah hubungan seorang ayah dan anaknya . Anak memiliki data dan fungsi yang dimiliki oleh ayah.		|
+		|					|	Di lab membuat penurunan dengan metode inheritance pada tugas java kita sebelumnya.							|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VI		|	Overriding			|	Menjelaskan Overriding															|	Prolan_12/minggu-6
+		|					|	Overloading Merupakan Suatu Function yang memiliki parameter , dan function tersebut dapat memiliki nama function yang sama		|
+		|					|	dengan yang lainnya dengan syarat jumlah parameter mesti berbeda									|
+		|					|`	Di lab belajar pembuatan overriding dari metod2 yang telah ada pada tugas sebelumnya yaitu tugas pembuatan inheritance.			|
+		|					|																		|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VII		|	Polimorfisme			|	Menjelaskan Polimorf, Kemampuan sebuah objek yg dapat memiliki banyak bentuk (kelas) dan terjadi ketika ketika sebuah super kelas	|	Prolan_12/minggu-7
+		|					|	digunakan untuk menjadi reference objek dari sebuah sub-kelas.										|
+		|					|	Di lab belajar pembuatan bentuk polimorfisme pada tugas java kita.									|
+		|					|																		|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VIII		|	Abstraction			|	Menjelaskan Abstraction Method dan Abstraction Class.											|	Prolan_12/Abstrak
+		|					|	Abstraction method, merupakan sebuah metod yg dideklarasikan dengan menambahkan keyword abstract pada					|
+		|					|	deklarasinya dan tanpa ada implementasi dari method tersebut.										|
+		|					|	Abstraction class, merupakan kelas yang dideklarasikan dengan menambahkan keyword abstract pada deklarasinya.				|
+		|					|																		|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IX		|	Encapsulation			|	Menjelaskan tentang enkapsulasi. Enkapsulasi ialah salah satu konsep penting pada OOP setelah inheritence				|	Prolan_12/Arighi-10112622-encapIntegration
+		|					|	polyphorphisem, dan abstraction. Dan berfungsi membungkus data dan fungsi pada suatu kelas.						|	
+		|					|	Di lab mengerjakan enkapsulasi.														|
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+X		|	Interface			|	Reference type yang mirip dengan class, class menjelaskan atribut & method tetapi interface						|	Prolan_12/minggu-10		
+		|					|	methodnya bisa di implementasi oleh class												|
+		|					|	Di lab belajar tentang interface.													|								
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+XII		|	Generic Class			|	Menejlaskan Generic Class pada java. Generic class adalah kelas yang universsal atau umum dan pembuatan fungsi & metod			|	Prolan_12/minggu-11
+		|					|	sudah ditentukan tipenya. Generic pada java ditantukan sebagai parameter tipe.								|
+		|					|	Di lab belajar pembuatan Generic Class.													|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+XIII		|	Generic Method			|	Digunakan untuk menyatakan type parameter method yang tidak berkaitan dengan parameter yang dimiliki					|	prolan_12/minggu-13
+		|					|																		|
+		|					|																		|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+XIV		|	Packages			|	Digunakan untuk menghindari konflik													|	Prolan_12/minggu-14
+		|					|	dapat didefinisikan sebagai sekumpulan class												|
+		|					|	Memberi proteksi pada class														|
+		|					|																		|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
